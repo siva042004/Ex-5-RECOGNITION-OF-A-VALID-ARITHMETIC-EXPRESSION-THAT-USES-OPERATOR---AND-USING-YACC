@@ -1,7 +1,7 @@
 # Ex-5-RECOGNITION-OF-A-VALID-ARITHMETIC-EXPRESSION-THAT-USES-OPERATOR-AND-USING-YACC
 # Date:06.03.24
-# NAME: Akash A
-# REGSITER NUMBER: 212221040010
+# NAME: sivaragul.m
+# REGSITER NUMBER: 212221040155
 # AIM
 To write a yacc program to recognize a valid arithmetic expression that uses operator +,- ,* and /.
 # ALGORITHM
